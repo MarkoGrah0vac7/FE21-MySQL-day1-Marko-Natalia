@@ -1,0 +1,8 @@
+Exercise 3 | Auction House
+An auction house wants to maintain a database to register all its transactions. 
+
+Products sold at auctions are grouped in sets.
+
+Each set has a catalog number, start price, highest bid and remaining auction time. Products are characterized by a code, name, a brief description and a photo. 
+
+Customers that participate in the auction must bid for a set (bids for individual products are not allowed). When a person bids, the amount, the date and the hour are registered. Customers are identified by a user name. Besides that, they have a password, a name and an e-mail address.

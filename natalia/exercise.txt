@@ -6,4 +6,4 @@ Note: You have 6 different exercises from Monday (Database development). Try to 
 Use 4 steps for the database development process - ensure that your database is in 3rd Normal Form.
 Create a database in MySQL
 Insert some data into a database
-Create at least 7 different queries using 4 different types of JOINS
+Create at least 7 different queries, at least 4 of them should use joins(either inner, left or right)
